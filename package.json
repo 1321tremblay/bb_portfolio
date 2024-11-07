@@ -1,5 +1,5 @@
 {
-  "name": "bb portfolio",
+   "name": "bb portfolio",
   "version": "1.0.0",
   "main": "src/assets/js/index.js",
   "type": "module",
